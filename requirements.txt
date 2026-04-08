@@ -3,5 +3,3 @@ scipy
 pandas
 loguru
 transformers
-torch
-deepspeed
