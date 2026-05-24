@@ -2,6 +2,10 @@
 
 The official implementation of **ICSE 2026** paper: **FoundRoot: Towards Foundation Model for Root Cause Analysis via Structured Deep Thinking**.
 
+## TODO
+1. Upload model checkpoints (coming soon).
+2. Upload dataset preprocessing scripts.
+
 ## Install Dependencies
 - Install `python>3.11`. We recommend using `Linux` environment with `8 x Nvidia A100 GPUs` for training and evaluation.
 - Run `pip install -r requirements.txt`.
